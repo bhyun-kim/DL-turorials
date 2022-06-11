@@ -38,13 +38,25 @@
   - What is Object Detection 
   - 1 stage models 
     - YOLO Series 
+      - YOLO v1 
+      - YOLO v2 
+      - YOLO v3 
+      - YOLO v4 
+      - YOLOS
+      - YOLOR 
+      - YOLOX
     - SSD 
+    - EfficientDet 
   - 2 stage models 
     - Faster R-CNN 
-    - EfficientDet 
+    
 
 - Semantic Segmentation 
+  - What is semantic segmentation 
+    - Light Weight Models  
+    - 
 - Instance Segmentation 
+  - Mask R-CNN 
 - Panoptic Segmentation 
 
 ### Natural Language Application
