@@ -31,6 +31,7 @@
   - VGG 
   - ResNet Family 
   - ViT Family 
+    - https://github.com/lucidrains/vit-pytorch 
   - Light Weight Models 
     - MobileNet 
     - EfficientNet 
