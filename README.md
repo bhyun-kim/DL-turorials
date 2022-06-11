@@ -1,11 +1,12 @@
 # Deep Neural Networks Tutorials 
 
 - Contents 
-- Introduction 
-  - Neural Network
-    - Perceptron
-    - Weight 
-    - Bias 
+  - Neural Networks
+    - Definition 
+    - Typical Neural Network Architecture 
+      - Perceptron
+      - Weight 
+      - Bias 
 
 **This repository is under construction.** 
 
