@@ -27,7 +27,22 @@
 ### Computer Vision Application
 - Image Classification 
   - [What is image classification?](https://www.thinkautomation.com/eli5/eli5-what-is-image-classification-in-deep-learning/#:~:text=Image%20classification%20is%20where%20a%20computer%20can%20analyse%20an%20image%20and%20identify%20the%20%E2%80%98class%E2%80%99%20the%20image%20falls%20under.%20(Or%20a%20probability%20of%20the%20image%20being%20part%20of%20a%20%E2%80%98class%E2%80%99.)%20A%20class%20is%20essentially%20a%20label%2C%20for%20instance%2C%20%E2%80%98car%E2%80%99%2C%20%E2%80%98animal%E2%80%99%2C%20%E2%80%98building%E2%80%99%20and%20so%20on.%C2%A0)
+  - AlexNet 
+  - VGG 
+  - ResNet Family 
+  - ViT Family 
+  - Light Weight Models 
+    - MobileNet 
+    - EfficientNet 
 - Object Detection 
+  - What is Object Detection 
+  - 1 stage models 
+    - YOLO Series 
+    - SSD 
+  - 2 stage models 
+    - Faster R-CNN 
+    - EfficientDet 
+
 - Semantic Segmentation 
 - Instance Segmentation 
 - Panoptic Segmentation 
