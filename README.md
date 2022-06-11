@@ -39,7 +39,7 @@
   - What is Object Detection 
   - 1 stage models 
     - YOLO Series 
-      - YOLO v1 
+      - [YOLO v1](https://arxiv.org/abs/1506.02640)
       - YOLO v2 
       - YOLO v3 
       - YOLO v4 
