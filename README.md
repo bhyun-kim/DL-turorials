@@ -1,11 +1,14 @@
 # Deep Neural Networks Tutorials 
 
+**This repository is under construction.**
+
 ## Contents 
 ### Introduction 
 - What is a Neural Network?
   - Perceptron
   - Weight & Bias
   - Activation Function 
+  - Linear Regression
   - Multi-Layer Perceptron  
   - Deep Neural Networks 
 - How to Train a Neural Network
@@ -21,7 +24,9 @@
   - Computer Vision 
   - Natural Language Process 
   
+### Computer Vision Application
 
+### Natural Language Application
   
-**This repository is under construction.** 
+ 
 
